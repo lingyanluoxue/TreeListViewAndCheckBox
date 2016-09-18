@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TreeListViewAndCheckBox</string>
+    <string name="tree_node_num">数量</string>
+</resources>
